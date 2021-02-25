@@ -1,0 +1,8 @@
+* npm i -g http-server  = baixa um servidor node
+
+* http-server . = starta o servidor
+
+* http-server -t 9090 = starta em outra porta
+
+
+* http-server -c-1 .

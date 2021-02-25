@@ -1,0 +1,29 @@
+controles
+
+
+if = e se
+else = senão
+switch = caso
+while = enquanto
+do while = fazer enquanto
+for = para cada
+for in = para cada ... dentro de ....
+break = pausa
+continue = 
+
+
+
+npm i dependencia = installa nodulos na pasta onde estiver apontando o terminal
+npm i -g = insala dependencia global
+npm init = definir pakjoson
+npm init -y = defini pjson automaticamente
+npm i --save = 
+npm i --save-dev axios@0.17.1 -E = istala a dependecia desenvolvedor e ainda a versão específica qu vai funcionar
+
+executandi scripts node
+
+vai até a pasta e 
+
+npm start = script dentro node
+npm test = \\       \\
+npm run dev =  quando é scripts criado por vc usar run
